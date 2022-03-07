@@ -146,18 +146,55 @@ body {font-family: Arial;}
   technologies (ASR, TTS/VC, SE, PSP) and an array of healthcare applications where such
   latest technological development plays a key role, together with a hands-on session on
   automatic speech recognition (ASR) system for dysarthric speech.
-</p>
+  </p>
 </div>
 
 <div id="Tab2" class="tabcontent">
   <p>Attendees of this course will get to know the roles that speech technologies such as speech
-enhancement (SE), ASR, paralinguistic speech processing (PSP), text-to-speech synthesis
-(TTS) as well as voice conversion (VC) play in a variety of healthcare applications. This course
-will also do a deep dive into each of the technologies to address how some of the challenges in
-healthcare applications are addressed including data scarcity, interoperability, and cultural &
-language barriers. State-of-the art solutions in healthcare applications using ASR, TTS/VC, SE,
-and PSP will also be covered. Finally, through the lecture materials as well as the hands-on
-session, the attendees would learn relevant toolboxes and get to know about the open-source
-datasets to learn using the concepts tutored even after this short course.
-</p>
+  enhancement (SE), ASR, paralinguistic speech processing (PSP), text-to-speech synthesis
+  (TTS) as well as voice conversion (VC) play in a variety of healthcare applications. This course
+  will also do a deep dive into each of the technologies to address how some of the challenges in
+  healthcare applications are addressed including data scarcity, interoperability, and cultural &
+  language barriers. State-of-the art solutions in healthcare applications using ASR, TTS/VC, SE,
+  and PSP will also be covered. Finally, through the lecture materials as well as the hands-on
+  session, the attendees would learn relevant toolboxes and get to know about the open-source
+  datasets to learn using the concepts tutored even after this short course.
+  </p>
 </div>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
