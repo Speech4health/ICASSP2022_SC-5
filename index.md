@@ -133,15 +133,31 @@ body {font-family: Arial;}
   <button class="tablinks" onclick="openCity(event, 'Tab2')" id="defaultOpen">Learning Outcomes</button> 
 </div>
 
-<p>The promise of speech technology for health applications is profound and is becoming more
-mature recently. Advancements in core speech technologies and their integration – ranging
-from automatic speech recognition (ASR), text-to-speech (TTS)/voice conversion (VC), speech
-enhancement (SE), and paralinguistic speech processing (PSP) – offer novel tools for both
-scientific discovery and creating innovative solutions for clinical screening, diagnostics,
-intervention supports and beyond. Credited to the potential for widespread impact, research
-sites across all continents are actively engaged in this important research area. This short
-course aims to provide an overview of these existing and potential opportunities of speech-
-based solutions in healthcare together with foundational background of these four major speech
-technologies (ASR, TTS/VC, SE, PSP) and an array of healthcare applications where such
-latest technological development plays a key role, together with a hands-on session on
-automatic speech recognition (ASR) system for dysarthric speech.</p>
+<div id="London" class="tabcontent">
+  <p>The promise of speech technology for health applications is profound and is becoming more
+  mature recently. Advancements in core speech technologies and their integration – ranging
+  from automatic speech recognition (ASR), text-to-speech (TTS)/voice conversion (VC), speech
+  enhancement (SE), and paralinguistic speech processing (PSP) – offer novel tools for both
+  scientific discovery and creating innovative solutions for clinical screening, diagnostics,
+  intervention supports and beyond. Credited to the potential for widespread impact, research
+  sites across all continents are actively engaged in this important research area. This short
+  course aims to provide an overview of these existing and potential opportunities of speech-
+  based solutions in healthcare together with foundational background of these four major speech
+  technologies (ASR, TTS/VC, SE, PSP) and an array of healthcare applications where such
+  latest technological development plays a key role, together with a hands-on session on
+  automatic speech recognition (ASR) system for dysarthric speech.
+</p>
+</div>
+
+<div id="Tab2" class="tabcontent">
+  <p>Attendees of this course will get to know the roles that speech technologies such as speech
+enhancement (SE), ASR, paralinguistic speech processing (PSP), text-to-speech synthesis
+(TTS) as well as voice conversion (VC) play in a variety of healthcare applications. This course
+will also do a deep dive into each of the technologies to address how some of the challenges in
+healthcare applications are addressed including data scarcity, interoperability, and cultural &
+language barriers. State-of-the art solutions in healthcare applications using ASR, TTS/VC, SE,
+and PSP will also be covered. Finally, through the lecture materials as well as the hands-on
+session, the attendees would learn relevant toolboxes and get to know about the open-source
+datasets to learn using the concepts tutored even after this short course.
+</p>
+</div>
