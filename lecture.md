@@ -110,6 +110,9 @@ body {font-family: Arial;}
 </style>
 
 
+<div class="container">
+  <br>
+  <br>
 <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">Anurag Dwarakanath, Amazon</button>
 <div class="content">
   <p><strong>Title:</strong> Spoken Language Understanding for the Indic Region.</p>
@@ -157,6 +160,7 @@ Weblink:<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us
 </div>
 <br>
 
+</div>
 
 
 <script>

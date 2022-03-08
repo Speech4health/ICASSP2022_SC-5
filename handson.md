@@ -131,7 +131,6 @@ body {font-family: Arial;}
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">EXPERT TALKS</button>
-  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="defaultOpen">TUTORIALS</button> 
 </div>
 
 <div id="London" class="tabcontent">
