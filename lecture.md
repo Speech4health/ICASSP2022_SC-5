@@ -113,12 +113,15 @@ body {font-family: Arial;}
 <div class="container">
   <br>
   <br>
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">Anurag Dwarakanath, Amazon</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG"><b>Lecture 1: ASR for Health</b> <p>Prasanta Kumar Ghosh</p></button>
 <div class="content">
-  <p><strong>Title:</strong> Spoken Language Understanding for the Indic Region.</p>
-  <p><strong>Abstract:</strong> In this talk, we will touch upon some of the key challenges in building Spoken Language Understanding systems for the Indic region. We begin with an insight on the usage of code-mixed multi-lingual utterances where many Indic languages (beyond Hindi) are freely used. We show how such Indic language usage gets represented in Latin script in a transliterated form and current state of the art multi-lingual language models (such as XLM-R, mBERT) surprisingly do not build common representations of transliterated text and that in the original language. We then introduce research in Continual Language Learning as an emerging area to bridge this gap. The Indic region also sees wide variety of spoken language variations including grammatical errors and ambiguous utterances leading to noise in data. We present recent progress in the area of Robust Machine Learning that aims to build learning algorithms that are resilient to noise in data. </p>
-
-<p><strong>Brief Bio:</strong> Anurag Dwarakanath is an applied science manager in Alexa AI and leads a team of scientists building machine learning and statistical models for the Natural Language Understanding components of Alexa. His interests include multi-lingual natural language processing, robustness in deep learning and verification & validation of deep learning systems. Anurag holds a PhD from Indian Institute of Management Calcutta where he studied the application of Graph Theory in Wireless Sensor Networks. Anurag has over 20 publications and 15 patents. 
+  
+<p><strong>Brief Bio:</strong> Prasanta Kumar Ghosh received his Ph.D. in Electrical Engineering from University of Southern California (USC), Los Angeles, USA in 2011. Prior to that he obtained his M.Sc.(Engineering) in Electrical Communication Engineering from Indian Institute of Science (IISc), Bangalore and B.E.(ETCE) in Electronics from Jadavpur University, Kolkata in 2006 and 2003 respectively. He has been a Research Intern at Microsoft Research India, Bangalore in the areas of audio-visual speaker verification from March to July in 2006. During 2011-2012 he was with IBM India Research Lab (IRL) as a researcher. Currently, he is an associate professor in the department of Electrical Engineering (EE) at IISc. Prasanta Kumar Ghosh was awarded the INSPIRE faculty fellowship from Department of Science and
+Technology (DST), Govt. of India in 2012. He received the best M.Sc. (Engg.) thesis award for the
+year 2006-07 in the Electrical Sciences division at IISc. He was awarded Center of Excellence in
+Teaching's award for excellence in teaching in the category of EE for the year 2010-11 in USC. He has
+also received Prof. Priti Shankar Teaching Award for Assistant Professor in 2017 from Indian Institute of
+Science (IISc), Bangalore. His research interests include human centered signal processing, engineering model and technology development with applications to education and health care. 
 </p>
 </div>
  <br>
