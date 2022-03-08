@@ -114,7 +114,7 @@ body {font-family: Arial;}
   <br>
   <br>
 <button class="collapsible">
-  <img_lec style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
   <p>
     <b>Lecture 1: ASR for Health</b> <br> Prasanta Kumar Ghosh
   </p>
@@ -141,8 +141,8 @@ Science (IISc), Bangalore. His research interests include human centered signal 
   <br>
   <br>
 <button class="collapsible">
-  <img_lec style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
-  <img_lec style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
   <p>
     <b>Lecture 2: TTS/VC for Health</b> <br> Hsin-Min Wang, Yi-Chiao Wu
   </p>
@@ -174,7 +174,7 @@ such as voice conversion and speech enhancement.
   <br>
   <br>
 <button class="collapsible">
-  <img_lec style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
   <p>
     <b>Lecture 3: SE for Health</b> <br>  Yu Tsao
   </p>  
@@ -198,7 +198,7 @@ Awards in 2018-2021, Future Tech Breakthrough Award 2019, and Outstanding Elite 
   <br>
   <br>
 <button class="collapsible">
-  <img_lec style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
   <p>
     <b>Lecture 4: PSP for Health</b> <br> Chi-Chun Lee
   </p>
