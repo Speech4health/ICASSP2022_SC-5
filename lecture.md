@@ -113,7 +113,12 @@ body {font-family: Arial;}
 <div class="container">
   <br>
   <br>
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG"><b>Lecture 1: ASR for Health</b> <br> Prasanta Kumar Ghosh</button>
+<button class="collapsible">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <div class=content>
+    <b>Lecture 1: ASR for Health</b> <br> Prasanta Kumar Ghosh
+  </div>
+</button>
 <div class="content">
   
 <p><strong>Brief Bio:</strong> Prasanta Kumar Ghosh received his Ph.D. in Electrical Engineering from University of Southern California (USC), Los Angeles, USA in 2011. Prior to that he obtained his M.Sc.(Engineering) in Electrical Communication Engineering from Indian Institute of Science (IISc), Bangalore and B.E.(ETCE) in Electronics from Jadavpur University, Kolkata in 2006 and 2003 respectively. He has been a Research Intern at Microsoft Research India, Bangalore in the areas of audio-visual speaker verification from March to July in 2006. During 2011-2012 he was with IBM India Research Lab (IRL) as a researcher. Currently, he is an associate professor in the department of Electrical Engineering (EE) at IISc. Prasanta Kumar Ghosh was awarded the INSPIRE faculty fellowship from Department of Science and
