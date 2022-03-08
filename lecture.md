@@ -115,9 +115,9 @@ body {font-family: Arial;}
   <br>
 <button class="collapsible">
   <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
-  <div class="container">
+  <p>
     <b>Lecture 1: ASR for Health</b> <br> Prasanta Kumar Ghosh
-  </div>
+  </p>
 </button>
 <div class="content">
   
