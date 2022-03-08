@@ -148,6 +148,7 @@ body {font-family: Arial;}
   automatic speech recognition (ASR) system for dysarthric speech.
   </p>
 </div>
+<br>
 
 <div id="Tab2" class="tabcontent">
   <p>Attendees of this course will get to know the roles that speech technologies such as speech
@@ -161,6 +162,7 @@ body {font-family: Arial;}
   datasets to learn using the concepts tutored even after this short course.
   </p>
 </div>
+<br>
 
 
 <script>
