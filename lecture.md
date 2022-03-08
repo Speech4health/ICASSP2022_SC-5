@@ -107,7 +107,6 @@ body {font-family: Arial;}
 </style>
 
 
-<div id="London" class="tabcontent">
 <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">Anurag Dwarakanath, Amazon</button>
 <div class="content">
   <p><strong>Title:</strong> Spoken Language Understanding for the Indic Region.</p>
