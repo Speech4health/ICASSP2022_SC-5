@@ -1,24 +1,5 @@
----
-layout: workshop      # DON'T CHANGE THIS.
-# More detailed instructions (including how to fill these variables for an
-# online workshop) are available at
-# https://carpentries.github.io/workshop-template/customization/index.html
-venue: "MUCS 2021 "        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: ""      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-country: "in"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
-language: "in"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
-latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: ""    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate:       # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate:         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-# instructor:  # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper:      # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["is21ss.indicasrchallenge@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
----
+
+<br>
 
 <style>
 * {
@@ -129,17 +110,26 @@ body {font-family: Arial;}
 </style>
 
 
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">EXPERT TALKS</button>
-</div>
-
-<div id="London" class="tabcontent">
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">Anurag Dwarakanath, Amazon</button>
+<div class="container">
+  <br>
+  <br>
+<button class="collapsible">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <p>
+    <b>Lecture 1: ASR for Health</b> <br> Prasanta Kumar Ghosh
+  </p>
+</button>
 <div class="content">
-  <p><strong>Title:</strong> Spoken Language Understanding for the Indic Region.</p>
-  <p><strong>Abstract:</strong> In this talk, we will touch upon some of the key challenges in building Spoken Language Understanding systems for the Indic region. We begin with an insight on the usage of code-mixed multi-lingual utterances where many Indic languages (beyond Hindi) are freely used. We show how such Indic language usage gets represented in Latin script in a transliterated form and current state of the art multi-lingual language models (such as XLM-R, mBERT) surprisingly do not build common representations of transliterated text and that in the original language. We then introduce research in Continual Language Learning as an emerging area to bridge this gap. The Indic region also sees wide variety of spoken language variations including grammatical errors and ambiguous utterances leading to noise in data. We present recent progress in the area of Robust Machine Learning that aims to build learning algorithms that are resilient to noise in data. </p>
-
-<p><strong>Brief Bio:</strong> Anurag Dwarakanath is an applied science manager in Alexa AI and leads a team of scientists building machine learning and statistical models for the Natural Language Understanding components of Alexa. His interests include multi-lingual natural language processing, robustness in deep learning and verification & validation of deep learning systems. Anurag holds a PhD from Indian Institute of Management Calcutta where he studied the application of Graph Theory in Wireless Sensor Networks. Anurag has over 20 publications and 15 patents. 
+<br>
+<p><strong>Syllabus:</strong> </p>  
+<p><strong>Brief Bio:</strong> Prasanta Kumar Ghosh received his Ph.D. in Electrical Engineering from University of Southern California (USC), Los Angeles, USA in 2011. Prior to that he obtained his M.Sc.(Engineering) in Electrical Communication Engineering from Indian Institute of Science (IISc), Bangalore and B.E.(ETCE) in Electronics from Jadavpur University, Kolkata in 2006 and 2003 respectively. He has been a Research Intern at Microsoft Research India, Bangalore in the areas of audio-visual speaker verification from March to July in 2006. During 2011-2012 he was with IBM India Research Lab (IRL) as a researcher. Currently, he is an associate professor in the department of Electrical Engineering (EE) at IISc. 
+<br>
+  Prasanta Kumar Ghosh was awarded the INSPIRE faculty fellowship from Department of Science and
+Technology (DST), Govt. of India in 2012. He received the best M.Sc. (Engg.) thesis award for the
+year 2006-07 in the Electrical Sciences division at IISc. He was awarded Center of Excellence in
+Teaching's award for excellence in teaching in the category of EE for the year 2010-11 in USC. He has
+also received Prof. Priti Shankar Teaching Award for Assistant Professor in 2017 from Indian Institute of
+Science (IISc), Bangalore. His research interests include human centered signal processing, engineering model and technology development with applications to education and health care. 
 </p>
 </div>
  <br>
@@ -147,41 +137,82 @@ body {font-family: Arial;}
 
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Sri_Garimella.jpg">Sri Garimella, Amazon</button>
+<div class="container">
+  <br>
+  <br>
+<button class="collapsible">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <p>
+    <b>Lecture 2: TTS/VC for Health</b> <br> Hsin-Min Wang, Yi-Chiao Wu
+  </p>
+</button>
 <div class="content">
-  <p><strong>Title:</strong> Overview of Speech Recognition Technology in Conversational Agents</p>
-  <p><strong>Abstract:</strong> From the early days of modern Automatic Speech Recognition (ASR) research in the 1990s, one of the driving visions of the field has been a computer-based assistant that could accomplish tasks for the user, simply by being spoken to. Today, we are close to achieving that vision, with a whole array of speech-enabled AI agents eager to help users. Amazon’s Alexa pioneered the AI assistant concept for smart speaker devices enabled by far-field ASR. It currently supports billions of customer interactions per week, on over 100 million devices across multiple languages. This talk will give an overview of the interplay between underlying speech technologies, including wakeword detection, endpointing, speaker identification, and speech recognition that enable Alexa. We highlight successes and challenges in developing large-scale ASR, and dive into the unique data aspects of large-scale deployments like Alexa, where a continuous stream of unlabeled data enables successful applications of semi-supervised learning. Finally, we highlight problems that remain to be solved before the promise of a fully natural, conversational assistant is fully realized.</p>
-
-<p><strong>Brief Bio:</strong> Sri Garimella is a senior manager of Applied Science, Alexa ASR in India. His team developed the ASR technology for launching Alexa in Indian English and Hindi languages. Sri obtained PhD from the Department of Electrical and Computer Engineering, Center for Language and Speech Processing at the Johns Hopkins University, Baltimore, USA in 2012. And Master of Engineering in Signal Processing from the Indian Institute of Science, Bangalore, India in 2006.</p>
-Weblink:<a href="https://sites.google.com/site/sivaramiisc/">https://sites.google.com/site/sivaramiisc/</a>
-
+<br>
+<p><strong>Syllabus:</strong> </p> 
+<p><strong>Brief Bio:</strong> Hsin-Min Wang received the B.S. and Ph.D. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 1989 and 1995, respectively. In October 1995, he joined the Institute of Information Science, Academia Sinica, Taipei, Taiwan, where he is currently a Research Fellow. He also holds a joint appointment as a Professor in the Department of Computer Science and Information Engineering at National Cheng Kung University. He was an Associate Editor of IEEE/ACM Transactions on Audio, Speech and Language Processing from 2016 to 2020. He currently serves as an Editorial
+Board Member of APSIPA Transactions on Signal and Information Processing. His major research interests
+include spoken language processing, natural language processing, multimedia information retrieval,
+machine learning and pattern recognition. He was a General Co-Chair of ISCSLP2016 and ISCSLP2018,
+a Technical Co-Chair of ISCSLP2010, O-COCOSDA2011, APSIPAASC2013, ISMIR2014, and ASRU2019, and an area chair of INTERSPEECH2019 and INTERSPEECH2020. He received the Chinese Institute of Engineers Technical
+Paper Award in 1995 and the ACM Multimedia Grand Challenge First Prize in 2012. He was an APSIPA
+distinguished lecturer for 2014–2015. He is a member of IEEE, ISCA, and ACM. 
+<br>
+<br>
+Yi-Chiao Wu received the B.S. and M.S. degrees in engineering from the School of Communication
+Engineering, National Chiao Tung University, Hsinchu, Taiwan, in 2009 and 2011, respectively, and
+the Ph.D. degree from the Graduate School of Informatics, Nagoya University, Nagoya, Japan, in
+2021. He worked at Realtek, ASUS, Academia Sinica, and Nagoya University for six years. He is currently
+working as a Postdoc Researcher at the Institute of Information Science, Academia Sinica, Taipei,
+Taiwan. His research focuses on speech generation applications based on machine learning methods,
+such as voice conversion and speech enhancement.
+</p>
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Samuel_Thomas.jpg">Samuel Thomas, IBM T.J. Watson Research Center, New York</button>
+<div class="container">
+  <br>
+  <br>
+<button class="collapsible">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <p>
+    <b>Lecture 3: SE for Health</b> <br>  Yu Tsao
+  </p>  
+</button>
 <div class="content">
-  <p><strong>Title:</strong> What next after ASR in Indian Languages? We speak in order to be understood!</p>
-  <p><strong>Abstract:</strong> The MUCS 2021 challenge has focused on building multilingual and code-switching ASR systems for Indian languages in low resource settings. Within this challenge, teams have successfully tackled important problems and have demonstrated significant improvements on various languages. Where do these gains lead us next? If we speak in order to be understood, we advocate that the next frontier in this space is spoken language understanding (SLU). In this talk we will review recent work in end-to-end spoken language understanding, where the speech input is directly processed into intent without going through an intermediate text transcript. The lessons learnt in building ASR systems in low resource settings are extremely useful for this task too, as very often there is very limited SLU training data. We will share insights on training E2E SLU systems and the challenges ahead and how they can be applied for Indic languages.</p>
-
-<p><strong>Brief Bio:</strong> Samuel Thomas received his B.Tech degree in Computer Engineering from the Cochin University of Science and Technology, India (2000) and M.S degree in Computer Science and Engineering from the Indian Institute of Technology Madras, India (2006) before earning his Doctor of Philosophy degree from the Johns Hopkins University, Baltimore in 2012. Since graduation, he has been at the IBM T.J. Watson Research Center, New York with the Speech Technologies Group. In the past, he has worked on several speech research projects and workshops with the Center for Language and Speech Processing (CLSP) at JHU, the Idiap Research Institute, Switzerland and the TeNeT group, IIT Madras. His research interests include speech processing and machine learning for speech recognition, spoken language understanding, speech synthesis and speaker recognition.</p>
-Weblink:<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-sthomas">https://researcher.watson.ibm.com/researcher/view.php?person=us-sthomas</a>
-</div>
 <br>
+<p><strong>Syllabus:</strong> </p> 
+<p><strong>Brief Bio:</strong> Yu Tsao (Senior Member, IEEE) received the B.S. and M.S. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 1999 and 2001, respectively, and the Ph.D. degree in electrical and computer engineering from the Georgia Institute of Technology, Atlanta, GA, USA, in 2008. From 2009 to 2011, he was a Researcher with the National Institute of Information and Communications Technology, Tokyo, Japan, where he engaged in research and product development in automatic
+speech recognition for multilingual speech-to-speech translation. He is currently a Research Fellow
+(Professor) and Deputy Director with the Research Center for Information Technology Innovation,
+Academia Sinica, Taipei, Taiwan. He is also a Jointly Appointed Professor with the Department of Electrical
+Engineering at Chung Yuan Christian University, Taoyuan City, Taiwan. His research interests include
+assistive oral communication technologies, audio coding, and bio-signal processing. He is currently an
+Associate Editor for the IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING and IEEE SIGNAL PROCESSING LETTERS. He received the Academia Sinica Career Development Award in 2017, National Innovation
+Awards in 2018-2021, Future Tech Breakthrough Award 2019, and Outstanding Elite Award, Chung Hwa Rotary Educational Foundation 2019–2020. He is a coauthor of a paper that received the 2021 IEEE Signal Processing Society (SPS) Young Author Best Paper Award. 
+</p>
+</div>
+ <br>
 
-
-
-
-
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/vikas_joshi.jfif">Vikas Joshi, Senior Applied Researcher, Microsoft Research India.</button>
+<div class="container">
+  <br>
+  <br>
+<button class="collapsible">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <p>
+    <b>Lecture 4: PSP for Health</b> <br> Chi-Chun Lee
+  </p>
+</button>
 <div class="content">
-  <p><strong>Title: </strong>Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems</p>
-  <p><strong>Abstract: </strong>Transfer learning (TL) and multilingual models often improve the performance of low resource langauges, by leveraging data from high resource langauges. Multilingual models also simplify the training and deployment strategy, as a single model is used for multiple languages. This talk will provide an overview of recent advances in TL and multilingual methods for streaming end-to-end (E2E) ASR systems.  Though there is considerable progress, most of the multilingual methods assume the availability of the input language. Hence, it is still challenging to provide a truly multilingual experience, where users can interact with voice assistants in any language, interchangeably, without explicitly setting the language of the conversation. While highlighting the improvements made, we will also discuss the practical challenges and potential research directions in building a truly multilingual experience.</p>
-  <p><strong>Brief Bio: </strong>Vikas Joshi is a senior researcher at Microsoft Speech team in India, working on various speech technologies including multilingual end-to-end ASR systems. Prior to Microsoft, he spent 3 years at Amazon Alexa, building large scale ASR systems and 4.5 years at IBM India Research labs. Vikas obtained his PhD degree from IIT Madras in 2016 and completed BTech from BVB college of Engineering, Hubli. He has over 15 publications and 10 granted patents.</p>
-  Weblink:<a href="https://in.linkedin.com/in/vikas-joshi-aa3b939">https://in.linkedin.com/in/vikas-joshi-aa3b939</a>
-</div>
 <br>
+<p><strong>Syllabus:</strong> </p> 
+<p><strong>Brief Bio:</strong> Chi-Chun Lee (Jeremy) is an Associate Professor at the Department of Electrical Engineering of the National Tsing Hua University (NTHU), Taiwan. He received his B.S. degree and Ph.D. degree in Electrical Engineering from the University of Southern California (USC), USA in 2007 and 2012. He is an IEEE senior member. His research interests are in speech and language, affective computing, health analytics, and behavior signal processing. He is an associate editor for the IEEE Transaction on Affective Computing (2020-), the IEEE Transaction on Multimedia (2019-2020), the Journal of Computer
+Speech and Language (2021-). He is a TPC member for APSIPA IVM and MLDA committee. He serves as an area chair for INTERSPEECH 2016, 2018, 2019, senior program committee for ACII 2017, 2019, publicity chair for ACM ICMI 2018, late breaking result chair for ACM ICMI 2023, sponsorship and special session chair for ISCSLP 2018, 2020, and a guest editor in Journal of Computer Speech and Language on special issue of Speech and Language Processing for Behavioral and Mental Health. He led a team to the 1st place in Emotion Challenge in INTERSPEECH 2009 and won the 1st place in Styrian Dialect and Baby Sound challenge in INTERSPEECH 2019. He is a co-author on the best paper award/finalist in major conferences such as INTERSPEECH, IEEE EMBC, and APSIPA ASC and the most cited paper published in 2013 in Journal of Speech Communication. He is the recipient of the Foundation of Outstanding Scholar's Young Innovator Award (2020), the CIEE Outstanding Young Electrical Engineer Award (2020), the IICM K. T. Li Young Researcher Award (2020). 
+</p>
 </div>
+ <br>
 
+</div>
 
 
 <script>
@@ -200,23 +231,3 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-
-<script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
-</script>
-
