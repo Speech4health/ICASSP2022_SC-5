@@ -183,62 +183,6 @@ Weblink:<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us
 <br>
 </div>
 
-<div id="Tab2" class="tabcontent">
-
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Mahadev_Prasanna.jfif">S. R. Mahadeva Prasanna, IIT Dharwad</button>
-<div class="content">
-  <p><strong>Title: </strong>Speech Processing: Handcrafted features to Deep Representations</p>
-  <p><strong>Abstract: </strong>With the advent of deep learning to the speech processing field for about a decade, a lot of attempts have been made towards learning the representations from spectrographic representation of speech. These representations are based on nonlinear processing and
-seem to capture more information from speech. The other mostly practised approach is handcrafted features extracted using signal processing and linked to speech production and/or perception. These approaches are mostly based on linear processing and are mathematically tractable.  This talk will take through the journey of speech processing from earliest explorations of handcrafted features to the latest deep representations. </p>
-
-<p><strong>Brief Bio:</strong> Dr. S. R. M. Prasanna is Dean (Faculty Welfare, Research and Development) and Professor, Dept of Electrical Engineering at IIT Dharwad since July 2017. He was faculty member at the Dept of Electronics and Electrical Engineering at IIT Guwahati from August 2004 to July 2017. He was also Dean (Research and Development) from July 2015 to July 2017 at IIT Guwahati. He
-obtained his PhD in CSE from IIT Madras in 2004, MTech in Industrial Electronics from NITK Surathkal in 1997 and BE in Electronics from SSIT Tumakuru (then with Bangalore University) in 1994. He has guided 20 PhD Theses and 12 ongoing in the areas of Speech and Handwriting processing. He has published over 250 research articles in reputed Indian and International journals and conferences. He has executed large volume funded projects and also provided consultancy to many public sector and private limited companies
-in the areas of speech processing.</p>
-</div>
-<br>
-
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/s_umesh.jpg">S Umesh, IIT Madras</button>
-<div class="content">
-  <p><strong>Title:</strong> Automatic Speech Recognition using Models from GMM-HMM  to Transformers to wav2vec2.0</p>
-  <p><strong>Abstract:</strong> In this talk, I will give an overview of various models used in Automatic Speech Recognition. After a brief overview of conventional GMM-HMM models and the role of lexicon and language models, I will talk about the recent progress based on deep-learning methods. This will include DNN-HMM and CTC based approaches. This will be followed by the sequence-to-sequence approaches including Attention-Based Encoder Decoder as well as transformers. Finally, I will talk about self-supervised approaches that are inspired by BERT, GPT and contrastive predictive coding including methods like MockingJay, Wav2vec and HuBERT.</p>
-  Weblink:<a href="http://www.ee.iitm.ac.in/~umeshs/">http://www.ee.iitm.ac.in/~umeshs/</a>
-</div>
-<br>
-
-
-  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"><span style="font-size:16px"> Shinji Watanabe, Carnegie Mellon University</span> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/PengchengGuo.jpg"><span style="font-size:16px"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</span>  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/sathvik_udupa.jpg"><span style="font-size:16px"> Sathvik Udupa, Research Associate, IISc Bangalore</span> </button>
-    <div class="content">
-  <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
-
-<p><strong>Abstract:</strong> An end-to-end neural approach has become a popular alternative to conventional modular approaches in various speech applications including speech recognition and synthesis.
-    One of the benefits of this end-to-end neural framework is that we can use a unified framework for different speech processing problems based on sequence-to-sequence modeling. This tutorial aims to introduce various end-to-end speech processing applications by focusing on the above unified framework within an open source toolkit named ESPnet (End-to-end speech processing toolkit https://github.com/espnet/espnet). We will explain the recent advance of ESPnet, including conformer: convolution-augmented transformer, and show an example of making an ESPnet recipe to build a state-of-the-art ASR system. </p>
-<div class="row">  
-  <div class="column">
-  <p><strong>Brief Bio: </strong>Shinji Watanabe is an Associate Professor at Carnegie Mellon University, Pittsburgh, PA. He received his B.S., M.S., and Ph.D. (Dr. Eng.) degrees from Waseda University, Tokyo, Japan. He was a research scientist at NTT Communication Science Laboratories, Kyoto, Japan, from 2001 to 2011, a visiting scholar in Georgia institute of technology, Atlanta, GA in 2009, and a senior principal research scientist at Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA USA from 2012 to 2017. Prior to the move to Carnegie Mellon University, he was an associate research professor at Johns Hopkins University, Baltimore, MD USA from 2017 to 2020. His research interests include automatic speech recognition, speech enhancement, spoken language understanding, and machine learning for speech and language processing. He has been published more than 200 papers in peer-reviewed journals and conferences and received several awards, including the best paper award from the IEEE ASRU in 2019. He served as an Associate Editor of the IEEE Transactions on Audio Speech and Language Processing. He was/has been a member of several technical committees, including the APSIPA Speech, Language, and Audio Technical Committee (SLA), IEEE Signal Processing Society Speech and Language Technical Committee (SLTC), and Machine Learning for Signal Processing Technical Committee (MLSP).</p>
-  Weblink:<a href="https://sites.google.com/view/shinjiwatanabe">https://sites.google.com/view/shinjiwatanabe</a>
- 
-  
-
-</div>
-<div class="column">
-
-  <p><strong>Brief Bio: </strong>Pengcheng Guo is a Ph.D. candidate at Northwestern Polytechnical University, Xi'an, China.
-His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to Jul. 2018, he was a research assistant at Nanyang Technology University, Singapore, collaborating with Prof. Eng Siong Chng and Prof. Haizhou Li. From Apr. 2019 to Nov. 2019, he was a research intern at ByteDance AI Lab, Beijing, China, collaborating with Dr. Yuxuan Wang (the author of Tacotron). From Jan.2020 to Jan. 2021, he joined Shinji Watanabe’s team as a visiting scholar at Johns Hopkins University, Baltimore, US. His research interests include automatic speech recognition, domain adaptation, and adversarial training. He is the main developer of ESPnet and has contributed to a lot of projects, including the Conformer architecture, various ASR benchmark recipes, etc.</p>
-<br>
-   
-  <p><strong>Brief Bio: </strong>Sathvik udupa is a research associate at the Indian Institute of Science, Bangalore, India. He works on speech synthesis & multi-modal problems in speech production, under the supervision of Prof. Prasanta Kumar Ghosh. He received his B.E degree from Ramaiah Institute of Technology, Bangalore in 2019. After college, he worked at an AI startup- MyHealthcareAI and in 2020, he started working with Prof. Prasanta Kumar Ghosh. His research interests are in the realm of multi-modal learning.</p>
-
-</div>
-</div>
-  </div>
-
-  <br>
-
-
-</div>
-
-
-
 
 
 <script>
