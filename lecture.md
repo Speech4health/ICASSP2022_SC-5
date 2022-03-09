@@ -114,7 +114,7 @@ body {font-family: Arial;}
   <br>
   <br>
 <button class="collapsible">
-  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/prasanta_g.jpg">
   <p>
     <b>Lecture 1: ASR for Health</b> <br> Prasanta Kumar Ghosh
   </p>
@@ -198,7 +198,7 @@ Awards in 2018-2021, Future Tech Breakthrough Award 2019, and Outstanding Elite 
   <br>
   <br>
 <button class="collapsible">
-  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">
+  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/lee.png">
   <p>
     <b>Lecture 4: PSP for Health</b> <br> Chi-Chun Lee
   </p>
