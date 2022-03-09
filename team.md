@@ -69,20 +69,20 @@
 <div class="container">
     <div class="row">
         <div class="column">
-            <img style="height: 120px; width:auto"  src="./assets/img/borris.jpg">
+            <img style="height: 120px; width:auto"  src="./assets/img/borris.png">
             <p style="font-size:16.5px;text-align:center"><a href="https://subohao.github.io/borrissu.github.io/">Bo-Hao (Borris) Su</a></p>
             <p style="font-size:16.5px;text-align:center">National Tsing Hua University (NTHU)</p>
             <p style="font-size:16.5px;text-align:center"><a href="mailto:borrissu@gapp.nthu.edu.tw">borrissu@gapp.nthu.edu.tw</a></p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/sathvik_u.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Sathvik Udupa</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://bloodraven66.github.io/about/">Sathvik Udupa</a></p>
             <p style="font-size:16.5px;text-align:center">Indian Institute of Science (IISc)</p>
             <p style="font-size:16.5px;text-align:center"><a href="mailto:sathvikudupa66@gmail.com">sathvikudupa66@gmail.com</a></p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/tanuka.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Tanuka Bhattacharjee</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://sites.google.com/view/tanuka-website/home/">Tanuka Bhattacharjee</a></p>
             <p style="font-size:16.5px;text-align:center">Indian Institute of Science (IISc)</p>
             <p style="font-size:16.5px;text-align:center"><a href="mailto:tanukab@iisc.ac.in">tanukab@iisc.ac.in</a></p>
         </div>
