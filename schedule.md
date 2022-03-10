@@ -1,13 +1,20 @@
 
 <br>
 <br>
+
+<!--
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
     <h1 style="color:white;">Schedule</h1>
   </div>
 </div>
+-->
+
 <br>
 <br>
+
+<h2> Schedule </h2>
+
 <style type="text/css">
 * {
   box-sizing: border-box;

@@ -110,6 +110,9 @@ body {font-family: Arial;}
 </style>
 
 
+<h2> Lectures </h2>
+
+<div class="container">
 <button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 1: ASR for Health</b> <br>Prasanta Kumar Ghosh</button>
 <div class="content">
 <br>
@@ -250,6 +253,8 @@ Speech and Language (2021-). He is a TPC member for APSIPA IVM and MLDA committe
 </p>
 </div>
  <br>
+
+</div>
 
 
 
