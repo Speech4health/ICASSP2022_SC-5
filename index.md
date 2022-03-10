@@ -129,8 +129,8 @@ body {font-family: Arial;}
 </style>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">Course Overview</button>
-  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="defaultOpen">Learning Outcomes</button> 
+  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen"><strong>Course Overview</strong></button>
+  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="defaultOpen"><strong>Learning Outcomes</strong></button> 
 </div>
 
 <div id="London" class="tabcontent">

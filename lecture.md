@@ -226,7 +226,7 @@ Awards in 2018-2021, Future Tech Breakthrough Award 2019, and Outstanding Elite 
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/lee.jpg"><b>Lecture 4: PSP for Health</b> <br> Chi-Chun Lee</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/lee.png"><b>Lecture 4: PSP for Health</b> <br> Chi-Chun Lee</button>
 <div class="content">
 <br>
 <p><strong>Syllabus:</strong> </p>
@@ -248,7 +248,7 @@ Health Applications
   <li style="font-size:16.5px;"> Emerging topics </li> 
 </ul>
 <br>
-<p><strong>Brief Bio:</strong> Chi-Chun Lee (Jeremy) is an Associate Professor at the Department of Electrical Engineering of the National Tsing Hua University (NTHU), Taiwan. He received his B.S. degree and Ph.D. degree in Electrical Engineering from the University of Southern California (USC), USA in 2007 and 2012. He is an IEEE senior member. His research interests are in speech and language, affective computing, health analytics, and behavior signal processing. He is an associate editor for the IEEE Transaction on Affective Computing (2020-), the IEEE Transaction on Multimedia (2019-2020), the Journal of Computer
+<p><strong>Speaker Bio:</strong> Chi-Chun Lee (Jeremy) is an Associate Professor at the Department of Electrical Engineering of the National Tsing Hua University (NTHU), Taiwan. He received his B.S. degree and Ph.D. degree in Electrical Engineering from the University of Southern California (USC), USA in 2007 and 2012. He is an IEEE senior member. His research interests are in speech and language, affective computing, health analytics, and behavior signal processing. He is an associate editor for the IEEE Transaction on Affective Computing (2020-), the IEEE Transaction on Multimedia (2019-2020), the Journal of Computer
 Speech and Language (2021-). He is a TPC member for APSIPA IVM and MLDA committee. He serves as an area chair for INTERSPEECH 2016, 2018, 2019, senior program committee for ACII 2017, 2019, publicity chair for ACM ICMI 2018, late breaking result chair for ACM ICMI 2023, sponsorship and special session chair for ISCSLP 2018, 2020, and a guest editor in Journal of Computer Speech and Language on special issue of Speech and Language Processing for Behavioral and Mental Health. He led a team to the 1st place in Emotion Challenge in INTERSPEECH 2009 and won the 1st place in Styrian Dialect and Baby Sound challenge in INTERSPEECH 2019. He is a co-author on the best paper award/finalist in major conferences such as INTERSPEECH, IEEE EMBC, and APSIPA ASC and the most cited paper published in 2013 in Journal of Speech Communication. He is the recipient of the Foundation of Outstanding Scholar's Young Innovator Award (2020), the CIEE Outstanding Young Electrical Engineer Award (2020), the IICM K. T. Li Young Researcher Award (2020).
 </p>
 </div>
