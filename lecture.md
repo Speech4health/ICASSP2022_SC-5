@@ -170,7 +170,7 @@ Health Applications
   <li style="font-size:16.5px;"> Other health-related TTS and VC applications </li> 
 </ul>
 <br>
-<p><strong>Speakers' Bio:</strong> Hsin-Min Wang received the B.S. and Ph.D. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 1989 and 1995, respectively. In October 1995, he joined the Institute of Information Science, Academia Sinica, Taipei, Taiwan, where he is currently a Research Fellow. He also holds a joint appointment as a Professor in the Department of Computer Science and Information Engineering at National Cheng Kung University. He was an Associate Editor of IEEE/ACM Transactions on Audio, Speech and Language Processing from 2016 to 2020. He currently serves as an Editorial
+<p><strong>Speakers Bio:</strong> Hsin-Min Wang received the B.S. and Ph.D. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 1989 and 1995, respectively. In October 1995, he joined the Institute of Information Science, Academia Sinica, Taipei, Taiwan, where he is currently a Research Fellow. He also holds a joint appointment as a Professor in the Department of Computer Science and Information Engineering at National Cheng Kung University. He was an Associate Editor of IEEE/ACM Transactions on Audio, Speech and Language Processing from 2016 to 2020. He currently serves as an Editorial
 Board Member of APSIPA Transactions on Signal and Information Processing. His major research interests
 include spoken language processing, natural language processing, multimedia information retrieval,
 machine learning and pattern recognition. He was a General Co-Chair of ISCSLP2016 and ISCSLP2018,

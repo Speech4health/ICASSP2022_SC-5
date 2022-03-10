@@ -11,29 +11,15 @@
 {% assign online = "false" %}
 {% endif %}
 
-<SCRIPT type="text/javascript">
-  function JavaBlink() {
-     var blinks = document.getElementsByTagName('JavaBlink');
-     for (var i = blinks.length - 1; i >= 0; i--) {
-        var s = blinks[i];
-        s.style.visibility = (s.style.visibility === 'visible') ? 'hidden' : 'visible';
-     }
-     window.setTimeout(JavaBlink, 1000);
-  }
-  if (document.addEventListener) document.addEventListener("DOMContentLoaded", JavaBlink, false);
-  else if (window.addEventListener) window.addEventListener("load", JavaBlink, false);
-  else if (window.attachEvent) window.attachEvent("onload", JavaBlink);
-  else window.onload = JavaBlink;
-</SCRIPT>
 
 <div class="jumbotron">
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
       {% unless site.title == "Workshop Title" or site.title == "" %}
-      <p><span style="color:red;font-size: 34px;"><strong>{{site.title}}</strong></span></p>
+      <p><span style="font-size: 44px;"><strong>{{site.title}}</strong></span></p>
       {% endunless %}
-      <p><span style="color:red;font-size: 24px;"><strong>{{page.venue}}</strong></span></p>
-      <p><span style="color:red;font-size: 24px;"><strong>Education Short Course</strong></span></p>
+      <p><span style="font-size: 28px;"><strong>{{page.venue}} - Education Short Course</strong></span></p>
+      <!-- <p><span style="color:red;font-size: 24px;"><strong></strong></span></p> --> 
       <p><span style="color:red;font-size: 24px;"><strong>24-26 May, 2022</strong></span></p>
       <div class="row">
         <div class="col-md-6">
