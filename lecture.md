@@ -110,13 +110,9 @@ body {font-family: Arial;}
 </style>
 
 
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">Lectures</button>
-</div>
-
-<div id="London" class="tabcontent">
 <button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 1: ASR for Health</b> <br>Prasanta Kumar Ghosh</button>
 <div class="content">
+<br>
 <p><strong>Syllabus:</strong> </p>
 Overview
 <ul>
@@ -136,7 +132,7 @@ Health Applications
   <li style="font-size:16.5px;"> Speaker specific vs independent model </li> 
 </ul>
 <br>
-<p><strong>Brief Bio:</strong> Prasanta Kumar Ghosh received his Ph.D. in Electrical Engineering from University of Southern California (USC), Los Angeles, USA in 2011. Prior to that he obtained his M.Sc.(Engineering) in Electrical Communication Engineering from Indian Institute of Science (IISc), Bangalore and B.E.(ETCE) in Electronics from Jadavpur University, Kolkata in 2006 and 2003 respectively. He has been a Research Intern at Microsoft Research India, Bangalore in the areas of audio-visual speaker verification from March to July in 2006. During 2011-2012 he was with IBM India Research Lab (IRL) as a researcher. Currently, he is an associate professor in the department of Electrical Engineering (EE) at IISc.
+<p><strong>Speaker Bio:</strong> Prasanta Kumar Ghosh received his Ph.D. in Electrical Engineering from University of Southern California (USC), Los Angeles, USA in 2011. Prior to that he obtained his M.Sc.(Engineering) in Electrical Communication Engineering from Indian Institute of Science (IISc), Bangalore and B.E.(ETCE) in Electronics from Jadavpur University, Kolkata in 2006 and 2003 respectively. He has been a Research Intern at Microsoft Research India, Bangalore in the areas of audio-visual speaker verification from March to July in 2006. During 2011-2012 he was with IBM India Research Lab (IRL) as a researcher. Currently, he is an associate professor in the department of Electrical Engineering (EE) at IISc.
 <br>
   Prasanta Kumar Ghosh was awarded the INSPIRE faculty fellowship from Department of Science and
 Technology (DST), Govt. of India in 2012. He received the best M.Sc. (Engg.) thesis award for the
@@ -149,8 +145,9 @@ Science (IISc), Bangalore. His research interests include human centered signal 
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 2: TTS/VC for Health</b> <br> Hsin-Min Wang, Yi-Chiao Wun</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 2: TTS/VC for Health</b> <br> Hsin-Min Wang, Yi-Chiao Wun</button>
 <div class="content">
+<br>
 <p><strong>Syllabus:</strong> </p>
 Overview
 <ul>
@@ -170,7 +167,7 @@ Health Applications
   <li style="font-size:16.5px;"> Other health-related TTS and VC applications </li> 
 </ul>
 <br>
-<p><strong>Brief Bio:</strong> Hsin-Min Wang received the B.S. and Ph.D. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 1989 and 1995, respectively. In October 1995, he joined the Institute of Information Science, Academia Sinica, Taipei, Taiwan, where he is currently a Research Fellow. He also holds a joint appointment as a Professor in the Department of Computer Science and Information Engineering at National Cheng Kung University. He was an Associate Editor of IEEE/ACM Transactions on Audio, Speech and Language Processing from 2016 to 2020. He currently serves as an Editorial
+<p><strong>Speakers' Bio:</strong> Hsin-Min Wang received the B.S. and Ph.D. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 1989 and 1995, respectively. In October 1995, he joined the Institute of Information Science, Academia Sinica, Taipei, Taiwan, where he is currently a Research Fellow. He also holds a joint appointment as a Professor in the Department of Computer Science and Information Engineering at National Cheng Kung University. He was an Associate Editor of IEEE/ACM Transactions on Audio, Speech and Language Processing from 2016 to 2020. He currently serves as an Editorial
 Board Member of APSIPA Transactions on Signal and Information Processing. His major research interests
 include spoken language processing, natural language processing, multimedia information retrieval,
 machine learning and pattern recognition. He was a General Co-Chair of ISCSLP2016 and ISCSLP2018,
@@ -191,8 +188,9 @@ such as voice conversion and speech enhancement.
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 3: SE for Health</b> <br>  Yu Tsao</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 3: SE for Health</b> <br> Yu Tsao</button>
 <div class="content">
+<br>
 <p><strong>Syllabus:</strong> </p>
 Overview
 <ul>
@@ -212,7 +210,7 @@ Health Applications
   <li style="font-size:16.5px;"> Multimodal assistive hearing technologies </li> 
 </ul>
 <br>
-<p><strong>Brief Bio:</strong> Yu Tsao (Senior Member, IEEE) received the B.S. and M.S. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 1999 and 2001, respectively, and the Ph.D. degree in electrical and computer engineering from the Georgia Institute of Technology, Atlanta, GA, USA, in 2008. From 2009 to 2011, he was a Researcher with the National Institute of Information and Communications Technology, Tokyo, Japan, where he engaged in research and product development in automatic
+<p><strong>Speaker Bio:</strong> Yu Tsao (Senior Member, IEEE) received the B.S. and M.S. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 1999 and 2001, respectively, and the Ph.D. degree in electrical and computer engineering from the Georgia Institute of Technology, Atlanta, GA, USA, in 2008. From 2009 to 2011, he was a Researcher with the National Institute of Information and Communications Technology, Tokyo, Japan, where he engaged in research and product development in automatic
 speech recognition for multilingual speech-to-speech translation. He is currently a Research Fellow
 (Professor) and Deputy Director with the Research Center for Information Technology Innovation,
 Academia Sinica, Taipei, Taiwan. He is also a Jointly Appointed Professor with the Department of Electrical
@@ -225,8 +223,9 @@ Awards in 2018-2021, Future Tech Breakthrough Award 2019, and Outstanding Elite 
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 4: PSP for Health</b> <br> Chi-Chun Lee</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/lee.jpg"><b>Lecture 4: PSP for Health</b> <br> Chi-Chun Lee</button>
 <div class="content">
+<br>
 <p><strong>Syllabus:</strong> </p>
 Overview
 <ul>
@@ -251,8 +250,6 @@ Speech and Language (2021-). He is a TPC member for APSIPA IVM and MLDA committe
 </p>
 </div>
  <br>
-
-</div>
 
 
 
