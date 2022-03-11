@@ -137,11 +137,12 @@ body {font-family: Arial;}
   <button class="collapsible"><b>3. Techniques to improve dysarthric speech recognition performance</b></button>
   <div class="content">
   </div>
-</div>
 
 <br>
 <br>
 <p><span style="color: red; font-size:18px;"><strong>More details coming soon!</strong></span></p>
+
+</div>
 
 <div id="Tab2" class="tabcontent">
   <ul>
