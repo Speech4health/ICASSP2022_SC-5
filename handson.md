@@ -111,28 +111,28 @@ body {font-family: Arial;}
 
 <h2> Hands-On Session </h2>
 
-<p><span style="font-size: 20px;">The hands-on session will include a detailed walk through of training ASR for dysarthria speech recognition. The goal is to provide attendees clear steps in using ASR toolkits for speech recognition in health, taking dysarthria as a case study.</span>
+<p><span style="font-size: 18px;">The hands-on session will include a detailed walk through of training ASR for dysarthria speech recognition. The goal is to provide attendees clear steps in using ASR toolkits for speech recognition in health, taking dysarthria as a case study.</span>
 
 <br>
 <br>
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen"><strong>Demonstrations</strong></button>
-  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="defaultOpen"><strong>Datesets</strong></button> 
+  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="defaultOpen"><strong>Datasets</strong></button> 
 </div>
 
 <div id="London" class="tabcontent">
-  <button class="collapsible"><b>Training an ASR system on only dysarthric speech data</b></button>
+  <button class="collapsible"><b>1. Training an ASR system on only dysarthric speech data</b></button>
   <div class="content">
   </div>
 
   <br>
-  <button class="collapsible"><b>Adapting a pre-trained ASR system for dysarthric speech data</b></button>
+  <button class="collapsible"><b>2. Adapting a pre-trained ASR system for dysarthric speech data</b></button>
   <div class="content">
   </div>
 
   <br>
-  <button class="collapsible"><b>Training an ASR system on only dysarthric speech data</b></button>
+  <button class="collapsible"><b>3. Techniques to improve dysarthric speech recognition performance</b></button>
   <div class="content">
   </div>
 </div>
@@ -142,6 +142,7 @@ body {font-family: Arial;}
     <li style="font-size:16.5px;"> 
     <p><a href="http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html"><strong>TORGO</strong></a></p> - word and sentence utterances from control speakers and speakers with Cerebral Palsy (CP) or Amyotrophic lateral sclerosis (ALS)
     </li>
+    <li style="font-size:16.5px;">
     <p><a href="http://www.isle.illinois.edu/sst/data/UASpeech/"><strong>UASpeech</strong></a></p> - isolated words from control speakers and speakers with Cerebral Palsy (CP)
     </li>
   </ul>
