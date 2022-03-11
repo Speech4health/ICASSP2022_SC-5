@@ -142,6 +142,7 @@ body {font-family: Arial;}
     <li style="font-size:16.5px;"> 
     <p><a href="http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html"><strong>TORGO</strong></a></p> - word and sentence utterances from control speakers and speakers with Cerebral Palsy (CP) or Amyotrophic lateral sclerosis (ALS)
     </li>
+    <br>
     <li style="font-size:16.5px;">
     <p><a href="http://www.isle.illinois.edu/sst/data/UASpeech/"><strong>UASpeech</strong></a></p> - isolated words from control speakers and speakers with Cerebral Palsy (CP)
     </li>
