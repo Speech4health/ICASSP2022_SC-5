@@ -47,7 +47,7 @@
             <p style="font-size:16.5px;text-align:center"><a href="mailto:yu.tsao@citi.sinica.edu.tw">yu.tsao@citi.sinica.edu.tw</a></p>
         </div>
         <div class="column">
-            <img style="height: 120px; width:auto"  src="./assets/img/wun.jpg">
+            <img style="height: 120px; width:auto"  src="./assets/img/wu.jpg">
             <p style="font-size:16.5px;text-align:center"><a href="https://bigpon.github.io">Yi-Chiao Wu</a></p>
             <p style="font-size:16.5px;text-align:center">Institute of Information Science, Academia Sinica</p>
             <p style="font-size:16.5px;text-align:center"><a href="mailto:yichiao.wu@g.sp.m.is.nagoyau.ac.jp">yichiao.wu@g.sp.m.is.nagoyau.ac.jp</a></p>

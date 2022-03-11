@@ -148,7 +148,7 @@ Science (IISc), Bangalore. His research interests include human centered signal 
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wang.jpg"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wun.jpg"><b>Lecture 2: TTS/VC for Health</b> <br> Hsin-Min Wang, Yi-Chiao Wun</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wang.jpg"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wu.jpg"><b>Lecture 2: TTS/VC for Health</b> <br> Hsin-Min Wang, Yi-Chiao Wu</button>
 <div class="content">
 <br>
 <p><strong>Syllabus:</strong> </p>
