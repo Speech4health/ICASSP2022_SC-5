@@ -112,7 +112,7 @@ body {font-family: Arial;}
 
 <h2> Hands-On Session </h2>
 
-<p><span style="font-size: 18px;">The hands-on session will include a detailed walk through of training ASR for dysarthria speech recognition. The goal is to provide attendees clear steps in using ASR toolkits for speech recognition in health, taking dysarthria as a case study.</span>
+<p><span style="font-size: 18px;">The hands-on session will include a detailed walk through of training ASR for dysarthric speech recognition. The goal is to provide attendees clear steps in using ASR toolkits for speech recognition in health, taking dysarthria as a case study.</span>
 
 <br>
 <br>
