@@ -122,6 +122,9 @@ body {font-family: Arial;}
 </div>
 
 <div id="London" class="tabcontent">
+  <br>
+
+
   <button class="collapsible"><b>1. Training an ASR system on only dysarthric speech data</b></button>
   <div class="content">
   </div>
@@ -148,6 +151,8 @@ body {font-family: Arial;}
     </li>
   </ul>
 </div>
+
+<p><JavaBlink><span style="color: red;"><strong>More details coming soon!</strong></span></JavaBlink></p>
 
 <!--
 <ul>
