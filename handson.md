@@ -139,6 +139,10 @@ body {font-family: Arial;}
   </div>
 </div>
 
+<br>
+<br>
+<p><span style="color: red; font-size:18px;"><strong>More details coming soon!</strong></span></p>
+
 <div id="Tab2" class="tabcontent">
   <ul>
     <li style="font-size:16.5px;"> 
@@ -150,7 +154,6 @@ body {font-family: Arial;}
   </ul>
 </div>
 
-<p><span style="color: red;"><strong>More details coming soon!</strong></span></p>
 
 <!--
 <ul>
