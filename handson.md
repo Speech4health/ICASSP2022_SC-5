@@ -124,8 +124,6 @@ body {font-family: Arial;}
 
 <div id="London" class="tabcontent">
   <br>
-
-
   <button class="collapsible"><b>1. Training an ASR system on only dysarthric speech data</b></button>
   <div class="content">
   </div>
@@ -146,14 +144,13 @@ body {font-family: Arial;}
     <li style="font-size:16.5px;"> 
     <p><a href="http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html"><strong>TORGO</strong></a> - word and sentence utterances from control speakers and speakers with Cerebral Palsy (CP) or Amyotrophic lateral sclerosis (ALS)</p>
     </li>
-    <br>
     <li style="font-size:16.5px;">
     <p><a href="http://www.isle.illinois.edu/sst/data/UASpeech/"><strong>UASpeech</strong></a> - isolated words from control speakers and speakers with Cerebral Palsy (CP) </p>
     </li>
   </ul>
 </div>
 
-<p><JavaBlink><span style="color: red;"><strong>More details coming soon!</strong></span></JavaBlink></p>
+<p><span style="color: red;"><strong>More details coming soon!</strong></span></p>
 
 <!--
 <ul>
@@ -198,18 +195,3 @@ function openCity(evt, cityName) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
-
-<SCRIPT type="text/javascript">
-  function JavaBlink() {
-     var blinks = document.getElementsByTagName('JavaBlink');
-     for (var i = blinks.length - 1; i >= 0; i--) {
-        var s = blinks[i];
-        s.style.visibility = (s.style.visibility === 'visible') ? 'hidden' : 'visible';
-     }
-     window.setTimeout(JavaBlink, 1000);
-  }
-  if (document.addEventListener) document.addEventListener("DOMContentLoaded", JavaBlink, false);
-  else if (window.addEventListener) window.addEventListener("load", JavaBlink, false);
-  else if (window.attachEvent) window.attachEvent("onload", JavaBlink);
-  else window.onload = JavaBlink;
-</SCRIPT>
