@@ -140,11 +140,11 @@ body {font-family: Arial;}
 <div id="Tab2" class="tabcontent">
   <ul>
     <li style="font-size:16.5px;"> 
-    <p><a href="http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html"><strong>TORGO</strong></a></p> - word and sentence utterances from control speakers and speakers with Cerebral Palsy (CP) or Amyotrophic lateral sclerosis (ALS)
+    <p><a href="http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html"><strong>TORGO</strong></a> - word and sentence utterances from control speakers and speakers with Cerebral Palsy (CP) or Amyotrophic lateral sclerosis (ALS)</p>
     </li>
     <br>
     <li style="font-size:16.5px;">
-    <p><a href="http://www.isle.illinois.edu/sst/data/UASpeech/"><strong>UASpeech</strong></a></p> - isolated words from control speakers and speakers with Cerebral Palsy (CP)
+    <p><a href="http://www.isle.illinois.edu/sst/data/UASpeech/"><strong>UASpeech</strong></a> - isolated words from control speakers and speakers with Cerebral Palsy (CP) </p>
     </li>
   </ul>
 </div>
