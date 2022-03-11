@@ -109,6 +109,7 @@ body {font-family: Arial;}
 .topright:hover {color: red;}
 </style>
 
+
 <h2> Hands-On Session </h2>
 
 <p><span style="font-size: 18px;">The hands-on session will include a detailed walk through of training ASR for dysarthria speech recognition. The goal is to provide attendees clear steps in using ASR toolkits for speech recognition in health, taking dysarthria as a case study.</span>
@@ -197,3 +198,18 @@ function openCity(evt, cityName) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
+
+<SCRIPT type="text/javascript">
+  function JavaBlink() {
+     var blinks = document.getElementsByTagName('JavaBlink');
+     for (var i = blinks.length - 1; i >= 0; i--) {
+        var s = blinks[i];
+        s.style.visibility = (s.style.visibility === 'visible') ? 'hidden' : 'visible';
+     }
+     window.setTimeout(JavaBlink, 1000);
+  }
+  if (document.addEventListener) document.addEventListener("DOMContentLoaded", JavaBlink, false);
+  else if (window.addEventListener) window.addEventListener("load", JavaBlink, false);
+  else if (window.attachEvent) window.attachEvent("onload", JavaBlink);
+  else window.onload = JavaBlink;
+</SCRIPT>
