@@ -191,7 +191,7 @@ such as voice conversion and speech enhancement.
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 3: SE for Health</b> <br> Yu Tsao</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/tsao.png"><b>Lecture 3: SE for Health</b> <br> Yu Tsao</button>
 <div class="content">
 <br>
 <p><strong>Syllabus:</strong> </p>

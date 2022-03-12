@@ -41,8 +41,8 @@
             <p style="font-size:16.5px;text-align:center"><a href="mailto:prasantg@iisc.ac.in">prasantg@iisc.ac.in</a></p>
         </div>
         <div class="column">
-            <img style="height: 120px; width:auto"  src="./assets/img/tsao.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Yu Tsao</a></p>
+            <img style="height: 120px; width:auto"  src="./assets/img/tsao.png">
+            <p style="font-size:16.5px;text-align:center"><a href="https://www.citi.sinica.edu.tw/pages/yu.tsao/publications_en.html">Yu Tsao</a></p>
             <p style="font-size:16.5px;text-align:center">Research Center for Information Technology Innovation, Academia Sinica</p>
             <p style="font-size:16.5px;text-align:center"><a href="mailto:yu.tsao@citi.sinica.edu.tw">yu.tsao@citi.sinica.edu.tw</a></p>
         </div>
