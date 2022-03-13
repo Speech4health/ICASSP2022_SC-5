@@ -136,6 +136,7 @@ body {font-family: Arial;}
   <li style="font-size:16.5px;"> Teixeira, Francisco, Alberto Abad, and Isabel Trancoso. "Privacy-preserving paralinguistic tasks." ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019. </li>
 </ul>
 </div>
+<br>
 
 <button class="collapsible"><b>Lecture 2: SE for Health</b></button>
 <div class="content">
@@ -153,6 +154,7 @@ body {font-family: Arial;}
   <li style="font-size:16.5px;"> Tseng, Rung-Yu, et al. "A Study of Joint Effect on Denoising Techniques and Visual Cues to Improve Speech Intelligibility in Cochlear Implant Simulation." arXiv preprint arXiv:1909.11919 (2019). </li>
 </ul>
 </div>
+<br>
 
 <button class="collapsible"><b>Lecture 3: TTS/VC for Health</b></button>
 <div class="content">
@@ -167,6 +169,7 @@ body {font-family: Arial;}
   <li style="font-size:16.5px;"> Kameoka, Hirokazu, et al. "ConvS2S-VC: Fully convolutional sequence-to-sequence voice conversion." IEEE/ACM Transactions on Audio, Speech, and Language Processing 28(2020): 1849-1863. </li>
 </ul>
 </div>
+<br>
 
 <button class="collapsible"><b>Lecture 4: ASR for Health</b></button>
 <div class="content">
@@ -201,7 +204,7 @@ body {font-family: Arial;}
 
 <div id="Tab4" class="tabcontent">
 
-<button class="collapsible"><b>Chi-Chun Lee</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/lee.png"><b>Chi-Chun Lee</b></button>
 <div class="content">
 <br>
 <ul>
@@ -214,7 +217,7 @@ body {font-family: Arial;}
 </div>
 <br>
 
-<button class="collapsible"><b>Prasanta Kumar Ghosh</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Prasanta Kumar Ghosh</b></button>
 <div class="content">
 <br>
 <ul>
@@ -227,7 +230,7 @@ body {font-family: Arial;}
 </div>
 <br>
 
-<button class="collapsible"><b>Yu Tsao</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/tsao.png"><b>Yu Tsao</b></button>
 <div class="content">
 <br>
 <ul>
@@ -240,7 +243,7 @@ body {font-family: Arial;}
 </div>
 <br>
 
-<button class="collapsible"><b>Yi-Chiao Wu</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wu.jpg"><b>Yi-Chiao Wu</b></button>
 <div class="content">
 <br>
 <ul>
@@ -253,7 +256,7 @@ body {font-family: Arial;}
 </div>
 <br>
 
-<button class="collapsible"><b>Hsin-Min Wang</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wang.jpg"><b>Hsin-Min Wang</b></button>
 <div class="content">
 <br>
 <ul>
