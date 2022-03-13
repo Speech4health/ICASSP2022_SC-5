@@ -120,7 +120,7 @@ body {font-family: Arial;}
 </div>
 
 <div id="Tab1" class="tabcontent">
-
+<br>
 <button class="collapsible"><b>Lecture 1: PSP for Health</b></button>
 <div class="content">
 <br>
@@ -204,7 +204,7 @@ body {font-family: Arial;}
 
 <div id="Tab4" class="tabcontent">
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/lee.png"><b>Chi-Chun Lee</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:left;"  src="./assets/img/lee.png"><b>Chi-Chun Lee</b></button>
 <div class="content">
 <br>
 <ul>
@@ -217,7 +217,7 @@ body {font-family: Arial;}
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Prasanta Kumar Ghosh</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:left;"  src="./assets/img/prasanta_g.jpg"><b>Prasanta Kumar Ghosh</b></button>
 <div class="content">
 <br>
 <ul>
@@ -230,7 +230,7 @@ body {font-family: Arial;}
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/tsao.png"><b>Yu Tsao</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:left;"  src="./assets/img/tsao.png"><b>Yu Tsao</b></button>
 <div class="content">
 <br>
 <ul>
@@ -243,7 +243,7 @@ body {font-family: Arial;}
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wu.jpg"><b>Yi-Chiao Wu</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:left;"  src="./assets/img/wu.jpg"><b>Yi-Chiao Wu</b></button>
 <div class="content">
 <br>
 <ul>
@@ -256,7 +256,7 @@ body {font-family: Arial;}
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wang.jpg"><b>Hsin-Min Wang</b></button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:left;"  src="./assets/img/wang.jpg"><b>Hsin-Min Wang</b></button>
 <div class="content">
 <br>
 <ul>
