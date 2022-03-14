@@ -82,14 +82,27 @@
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
-    <th class="tg-ecxm">Time Slots (UTC+8)</th>
-    <th class="tg-ecxm">24th May</th>
-    <th class="tg-ecxm">25th May</th>
-    <th class="tg-ecxm">26th May</th>
+    <th class="tg-ecxm">Date</th>
+    <th class="tg-ecxm">Time slots (UTC +8)<br>21:00-23:00</th>
+    <th class="tg-ecxm">21:00-2300</th>
   </tr>
 </thead>
 <tbody>
-  
+<tr>
+  <td class="tg-ecxm">24th May</td>
+  <td class="tg-hjwb">Lecture 1: PSP for health<br>Speaker:</td>
+  <td class="tg-hjwb">Lecture 2: SE for health<br>Speaker:</td>
+</tr>
+<tr>
+  <td class="tg-ecxm">25th May</td>
+  <td class="tg-hjwb">Lecture 2: TTS/ VC for health<br>Speaker:</td>
+  <td class="tg-hjwb">-</td>
+</tr>
+<tr>
+  <td class="tg-ecxm">26th May</td>
+  <td class="tg-hjwb">Lecture 2: ASR for health<br>Speaker:</td>
+  <td class="tg-hjwb">Hands-on session</td>
+</tr>
 </tbody>
 </table></div>
 
@@ -195,7 +208,7 @@ Weblink:<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us
   <p><strong>Brief Bio: </strong>Pengcheng Guo is a Ph.D. candidate at Northwestern Polytechnical University, Xi'an, China.
 His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to Jul. 2018, he was a research assistant at Nanyang Technology University, Singapore, collaborating with Prof. Eng Siong Chng and Prof. Haizhou Li. From Apr. 2019 to Nov. 2019, he was a research intern at ByteDance AI Lab, Beijing, China, collaborating with Dr. Yuxuan Wang (the author of Tacotron). From Jan.2020 to Jan. 2021, he joined Shinji Watanabe’s team as a visiting scholar at Johns Hopkins University, Baltimore, US. His research interests include automatic speech recognition, domain adaptation, and adversarial training. He is the main developer of ESPnet and has contributed to a lot of projects, including the Conformer architecture, various ASR benchmark recipes, etc.</p>
 <br>
-   
+
   <p><strong>Brief Bio: </strong>Sathvik udupa is a research associate at the Indian Institute of Science, Bangalore, India. He works on speech synthesis & multi-modal problems in speech production, under the supervision of Prof. Prasanta Kumar Ghosh. He received his B.E degree from Ramaiah Institute of Technology, Bangalore in 2019. After college, he worked at an AI startup- MyHealthcareAI and in 2020, he started working with Prof. Prasanta Kumar Ghosh. His research interests are in the realm of multi-modal learning.</p>
 
 </div>
@@ -208,19 +221,19 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 
 var modal;
 
-// When the user clicks the button, open the modal 
+// When the user clicks the button, open the modal
 function prasanna(x) {
   modal = document.getElementById("prasannaModal");
   modal.style.display = "block";
   //span = document.getElementsById("prasannaclose");
 }
-// When the user clicks the button, open the modal 
+// When the user clicks the button, open the modal
 function garimella(x) {
   modal = document.getElementById("garimellaModal");
   modal.style.display = "block";
   //span = document.getElementsByClassName("garimellaclose")[0];
 }
-// When the user clicks the button, open the modal 
+// When the user clicks the button, open the modal
 function anurag(x) {
   modal = document.getElementById("anuragModal");
   modal.style.display = "block";
