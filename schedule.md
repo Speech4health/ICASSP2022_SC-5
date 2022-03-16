@@ -98,7 +98,7 @@
 </tr>
 <tr>
   <td class="tg-ecxm">25 May 2022</td>
-  <td class="tg-hjwb">Lecture 3: TTS/VC for Health<br>Speaker: Hsin-Min Wang, <br>Yi-Chiao Wu</td>
+  <td class="tg-hjwb">Lecture 3: TTS/VC for Health<br>Speaker: Hsin-Min Wang, Yi-Chiao Wu</td>
   <td class="tg-hjwb">-</td>
 </tr>
 <tr>
