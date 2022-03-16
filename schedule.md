@@ -11,7 +11,7 @@
 
 <h2> Schedule </h2>
 
-<!-- <style type="text/css">
+<style type="text/css">
 * {
   box-sizing: border-box;
 }
@@ -107,51 +107,7 @@
     <td class="tg-hjwb">Hands-On Session</td>
   </tr>
 </tbody>
-</tab </div>-->le>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k5c1{background-color:#ffffc7;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fs2w{background-color:#cbcefb;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 529px">
-<colgroup>
-<col style="width: 92px">
-<col style="width: 213px">
-<col style="width: 224px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-fs2w" rowspan="2">Date</th>
-    <th class="tg-fs2w" colspan="2">Timeslots (UTC+8)</th>
-  </tr>
-  <tr>
-    <th class="tg-fs2w">19:00-21:00</th>
-    <th class="tg-fs2w">21:00-23:00</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fs2w">24 May 2022</td>
-    <td class="tg-k5c1">Lecture 1: PSP for Health<br>Speaker: Chi-Chun Lee</td>
-    <td class="tg-k5c1">Lecture 2: SE for Health<br>Speaker: Yu Tsao</td>
-  </tr>
-  <tr>
-    <td class="tg-fs2w">25 May 2022</td>
-    <td class="tg-k5c1">Lecture 3: TTS/VC for Health<br>Speaker: Hsin-Min Wang, <br>Yi-Chiao Wu</td>
-    <td class="tg-k5c1">-</td>
-  </tr>
-  <tr>
-    <td class="tg-fs2w">26 May 2022</td>
-    <td class="tg-k5c1">Lecture 4: ASR for Health<br>Speaker: Prasanta Kumar Ghosh</td>
-    <td class="tg-k5c1">Hands-On Session</td>
-  </tr>
-</tbody>
-</table>
+</table></div>
 
 <div id="prasannaModal" class="modal">
 
