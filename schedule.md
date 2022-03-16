@@ -82,27 +82,30 @@
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
-    <th class="tg-ecxm">Date</th>
-    <th class="tg-ecxm">Time slots (UTC +8)<br>21:00-23:00</th>
-    <th class="tg-ecxm">21:00-2300</th>
+    <th class="tg-amwm" rowspan="2">Date</th>
+    <th class="tg-amwm" colspan="2">Timeslots (UTC+8)</th>
+  </tr>
+  <tr>
+    <th class="tg-amwm">19:00-21:00</th>
+    <th class="tg-amwm">21:00-23:00</th>
   </tr>
 </thead>
 <tbody>
-<tr>
-  <td class="tg-ecxm">24th May</td>
-  <td class="tg-hjwb">Lecture 1: PSP for health<br>Speaker:</td>
-  <td class="tg-hjwb">Lecture 2: SE for health<br>Speaker:</td>
-</tr>
-<tr>
-  <td class="tg-ecxm">25th May</td>
-  <td class="tg-hjwb">Lecture 2: TTS/ VC for health<br>Speaker:</td>
-  <td class="tg-hjwb">-</td>
-</tr>
-<tr>
-  <td class="tg-ecxm">26th May</td>
-  <td class="tg-hjwb">Lecture 2: ASR for health<br>Speaker:</td>
-  <td class="tg-hjwb">Hands-on session</td>
-</tr>
+  <tr>
+    <td class="tg-amwm">24 May 2022</td>
+    <td class="tg-amwm">Lecture 1: PSP for Health<br>Speaker: Chi-Chun Lee</td>
+    <td class="tg-amwm">Lecture 2: SE for Health<br>Speaker: Yu Tsao</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">25 May 2022</td>
+    <td class="tg-amwm">Lecture 3: TTS/VC for Health<br>Speaker: Hsin-Min Wang, <br>Yi-Chiao Wu</td>
+    <td class="tg-amwm">-</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">26 May 2022</td>
+    <td class="tg-amwm">Lecture 4: ASR for Health<br>Speaker: Prasanta Kumar Ghosh</td>
+    <td class="tg-amwm">Hands-On Session</td>
+  </tr>
 </tbody>
 </table></div>
 
