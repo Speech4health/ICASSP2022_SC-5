@@ -92,19 +92,20 @@
 </thead>
 <tbody>
 <tr>
-  <td class="tg-ecxm">24th May</td>
-  <td class="tg-hjwb">Lecture 1: PSP for health<br>Speaker:</td>
-  <td class="tg-hjwb">Lecture 2: SE for health<br>Speaker:</td>
+  <td class="tg-ecxm">24 May 2022</td>
+  <td class="tg-hjwb">Lecture 1: PSP for Health<br>Speaker: Chi-Chun Lee</td>
+  <td class="tg-hjwb">Lecture 2: SE for Health<br>Speaker: Yu Tsao</td>
 </tr>
 <tr>
-  <td class="tg-ecxm">25th May</td>
-  <td class="tg-hjwb">Lecture 2: TTS/ VC for health<br>Speaker:</td>
+  <td class="tg-ecxm">25 May 2022</td>
+  <td class="tg-hjwb">Lecture 3: TTS/VC for Health<br>Speaker: Hsin-Min Wang, <br>Yi-Chiao Wu</td>
   <td class="tg-hjwb">-</td>
 </tr>
 <tr>
-  <td class="tg-ecxm">26th May</td>
-  <td class="tg-hjwb">Lecture 2: ASR for health<br>Speaker:</td>
-  <td class="tg-hjwb">Hands-on session</td>
+  <td class="tg-ecxm">26 May 2022</td>
+  <td class="tg-hjwb">Lecture 4: ASR for Health<br>Speaker: Prasanta Kumar Ghosh</td>
+  <td class="tg-hjwb">Hands-On Session</td>
+</tr>
 </tr>
 </tbody>
 </table></div>
