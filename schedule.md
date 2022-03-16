@@ -106,7 +106,6 @@
   <td class="tg-hjwb">Lecture 4: ASR for Health<br>Speaker: Prasanta Kumar Ghosh</td>
   <td class="tg-hjwb">Hands-On Session</td>
 </tr>
-</tr>
 </tbody>
 </table></div>
 
