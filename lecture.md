@@ -114,7 +114,7 @@ body {font-family: Arial;}
 
 <div class="container">
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/lee.png"><b>Lecture 1: PSP for Health</b> <br> Chi-Chun Lee</button>
+<button class="collapsible"><img style="height: 120px; width: 80px ;padding:5px; float:right;"  src="./assets/img/lee.png"><b>Lecture 1: PSP for Health</b> <br> Chi-Chun Lee</button>
 <div class="content">
 <br>
 <p><strong>Syllabus:</strong> </p>
