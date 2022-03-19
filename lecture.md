@@ -114,7 +114,7 @@ body {font-family: Arial;}
 
 <div class="container">
 
-<button class="collapsible"><img style="height: 120px; width: 80px ;padding:5px; float:right;"  src="./assets/img/lee.png"><b>Lecture 1: PSP for Health</b> <br> Chi-Chun Lee</button>
+<button class="collapsible"><img style="height: 120px; width: 100px ;padding:5px; float:right;"  src="./assets/img/lee.png"><b>Lecture 1: PSP for Health</b> <br> Chi-Chun Lee</button>
 <div class="content">
 <br>
 <p><strong>Syllabus:</strong> </p>
@@ -142,7 +142,7 @@ Speech and Language (2021-). He is a TPC member for APSIPA IVM and MLDA committe
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/tsao.png"><b>Lecture 2: SE for Health</b> <br> Yu Tsao</button>
+<button class="collapsible"><img style="height: 120px; width:100px ;padding:5px; float:right;"  src="./assets/img/tsao.png"><b>Lecture 2: SE for Health</b> <br> Yu Tsao</button>
 <div class="content">
 <br>
 <p><strong>Syllabus:</strong> </p>
@@ -176,7 +176,7 @@ Awards in 2018-2021, Future Tech Breakthrough Award 2019, and Outstanding Elite 
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wu.jpg"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/wang.jpg"><b>Lecture 3: TTS/VC for Health</b> <br> Hsin-Min Wang, Yi-Chiao Wu</button>
+<button class="collapsible"><img style="height: 120px; width:100px;padding:5px; float:right;"  src="./assets/img/wu.jpg"><img style="height: 120px; width:100px;padding:5px; float:right;"  src="./assets/img/wang.jpg"><b>Lecture 3: TTS/VC for Health</b> <br> Hsin-Min Wang, Yi-Chiao Wu</button>
 <div class="content">
 <br>
 <p><strong>Syllabus:</strong> </p>
@@ -218,7 +218,7 @@ such as voice conversion and speech enhancement.
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 4: ASR for Health</b> <br>Prasanta Kumar Ghosh</button>
+<button class="collapsible"><img style="height: 120px; width:100px;padding:5px; float:right;"  src="./assets/img/prasanta_g.jpg"><b>Lecture 4: ASR for Health</b> <br>Prasanta Kumar Ghosh</button>
 <div class="content">
 <br>
 <p><strong>Syllabus:</strong> </p>
