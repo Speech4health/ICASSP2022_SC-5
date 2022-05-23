@@ -192,17 +192,19 @@ body {font-family: Arial;}
 
 <div id="Tab2" class="tabcontent">
 <br>
-<ul>
-  <li> 
-    <a href = "./assets/speaker_slides/Speech_for_health_PSP.pdf">Lecture 1: PSP for Health</a>
+<ul style="font-size: 19px; font-weight: bold;">
+  <li style="margin-bottom: 6px;"> 
+    <a href="./assets/speaker_slides/Speech_for_health_PSP.pdf">Lecture 1: PSP for Health</a>
   </li>
-  <li> 
-    <a href = "./assets/speaker_slides/ICASSP_Speech4Health_SE.pdf">Lecture 2: SE for Health</a>
+  <li style="margin-bottom: 6px;"> 
+    <a href="./assets/speaker_slides/ICASSP_Speech4Health_SE.pdf">Lecture 2: SE for Health</a>
   </li>
-  <li> 
-    <a href = "./assets/speaker_slides/ICASSP_Speech4Health_TTS_and_VC.pdf">Lecture 3: TTS/VC for Health</a>
+  <li style="margin-bottom: 6px;"> 
+    <a href="./assets/speaker_slides/ICASSP_Speech4Health_TTS_and_VC.pdf">Lecture 3: TTS/VC for Health</a>
   </li>
-  <li> Lecture 4: ASR for Health </li>
+  <li style="margin-bottom: 6px;">
+    Lecture 4: ASR for Health 
+  </li>
 </ul>
 <br>
 </div>
