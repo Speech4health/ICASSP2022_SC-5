@@ -131,8 +131,8 @@ body {font-family: Arial;}
     <li style="font-size:16.5px;"> ESPnet toolkit introduction & installation </li>
     <li style="font-size:16.5px;"> ESPnet data preparation steps </li> 
     <li style="font-size:16.5px;"> TORGO recipe </li> 
-    <li style="font-size:16.5px;"> How to configure & train ASR? </li> 
-    <li style="font-size:16.5px;"> How to do decoding (inference)? </li> 
+    <li style="font-size:16.5px;"> How to configure & train ASR </li> 
+    <li style="font-size:16.5px;"> How to do decoding (inference) </li> 
   </ul>
   </div>
 
@@ -145,7 +145,7 @@ body {font-family: Arial;}
     <li style="font-size:16.5px;"> What you should prepare </li> 
     <li style="font-size:16.5px;"> Where to get the source model </li> 
     <li style="font-size:16.5px;"> How to fine-tune (transfer) </li> 
-    <li style="font-size:16.5px;"> How to do decoding (inference)? </li> 
+    <li style="font-size:16.5px;"> How to do decoding (inference) </li> 
   </ul>
   </div>
 
