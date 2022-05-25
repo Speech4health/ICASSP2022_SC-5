@@ -124,23 +124,45 @@ body {font-family: Arial;}
 
 <div id="London" class="tabcontent">
   <br>
-  <button class="collapsible"><b>1. Training an ASR system on only dysarthric speech data</b></button>
+  <button class="collapsible"><b>1. Train an ASR system on only dysarthric speech</b></button>
   <div class="content">
+  <br>
+  <ul>
+    <li style="font-size:16.5px;"> ESPnet toolkit introduction & installation </li>
+    <li style="font-size:16.5px;"> ESPnet data preparation steps </li> 
+    <li style="font-size:16.5px;"> TORGO recipe </li> 
+    <li style="font-size:16.5px;"> How to configure & train ASR? </li> 
+    <li style="font-size:16.5px;"> How to do decoding (inference)? </li> 
+  </ul>
   </div>
 
   <br>
-  <button class="collapsible"><b>2. Adapting a pre-trained ASR system for dysarthric speech data</b></button>
+  <button class="collapsible"><b>2. Fine-tune a pre-trained ASR system for dysarthric speech recognition</b></button>
   <div class="content">
+  <br>
+  <ul>
+    <li style="font-size:16.5px;"> Concepts and scenarios to use transfer learning </li>
+    <li style="font-size:16.5px;"> What you should prepare </li> 
+    <li style="font-size:16.5px;"> Where to get the source model </li> 
+    <li style="font-size:16.5px;"> How to fine-tune (transfer) </li> 
+    <li style="font-size:16.5px;"> How to do decoding (inference)? </li> 
+  </ul>
   </div>
 
   <br>
-  <button class="collapsible"><b>3. Techniques to improve dysarthric speech recognition performance</b></button>
+  <button class="collapsible"><b>3. Data augmentation techniques</b></button>
   <div class="content">
+  <br>
+  <ul>
+    <li style="font-size:16.5px;"> Concepts of data augmentation </li>
+    <li style="font-size:16.5px;"> Speed perturbation </li> 
+    <li style="font-size:16.5px;"> SpecAugment </li> 
+    <li style="font-size:16.5px;"> How to apply these in ESPnet </li> 
+  </ul>
   </div>
 
 <br>
 <br>
-<p><span style="color: red; font-size:18px;"><strong>More details coming soon!</strong></span></p>
 
 </div>
 

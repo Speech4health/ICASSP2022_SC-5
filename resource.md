@@ -205,6 +205,9 @@ body {font-family: Arial;}
   <li style="margin-bottom: 6px;">
     Lecture 4: ASR for Health 
   </li>
+  <li style="margin-bottom: 6px;">
+    Hands-On Session: ASR for Dysarthric Speech 
+  </li>
 </ul>
 <br>
 </div>
