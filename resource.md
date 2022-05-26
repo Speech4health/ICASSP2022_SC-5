@@ -203,7 +203,7 @@ body {font-family: Arial;}
     <a href="./assets/speaker_slides/ICASSP_Speech4Health_TTS_and_VC.pdf">Lecture 3: TTS/VC for Health</a>
   </li>
   <li style="margin-bottom: 6px;">
-    <a href="./assets/speaker_slides/ICASSP_Speech4Health_ASR_V2.pdf">Lecture 4: ASR for Health</a> 
+    <a href="./assets/speaker_slides/ICASSP-Speech4Health-ASR-V4.pdf">Lecture 4: ASR for Health</a> 
   </li>
   <li style="margin-bottom: 6px;">
     <a href="./assets/speaker_slides/ICASSP_Speech4Health_HandsOn.pdf">Hands-On Session: ASR for Dysarthric Speech</a> 
