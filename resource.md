@@ -206,7 +206,7 @@ body {font-family: Arial;}
     <a href="./assets/speaker_slides/ICASSP_Speech4Health_ASR_V2.pdf">Lecture 4: ASR for Health</a> 
   </li>
   <li style="margin-bottom: 6px;">
-    Hands-On Session: ASR for Dysarthric Speech 
+    <a href="./assets/speaker_slides/ICASSP_Speech4Health_HandsOn.pdf">Hands-On Session: ASR for Dysarthric Speech</a> 
   </li>
 </ul>
 <br>
@@ -214,7 +214,7 @@ body {font-family: Arial;}
 
 <div id="Tab3" class="tabcontent">
 <br>
-<p><span style="color: red; font-size:18px;"><strong>Coming soon!</strong></span></p>
+  <a href="https://github.com/Speech4health/hands-on-codes"></a>
 <br>
 </div>
 
