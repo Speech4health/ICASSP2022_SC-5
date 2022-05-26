@@ -212,7 +212,7 @@ body {font-family: Arial;}
 <br>
 </div>
 
-<div id="Tab3" class="tabcontent">
+<div id="Tab3" class="tabcontent" style="font-size: 19px; font-weight: bold;">
 <br>
   <a href="https://github.com/Speech4health/hands-on-codes">Hands-On Codes</a>
 <br>
