@@ -214,7 +214,7 @@ body {font-family: Arial;}
 
 <div id="Tab3" class="tabcontent">
 <br>
-  <a href="https://github.com/Speech4health/hands-on-codes"></a>
+  <a href="https://github.com/Speech4health/hands-on-codes">Hands-On Codes</a>
 <br>
 </div>
 
